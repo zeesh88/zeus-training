@@ -1,0 +1,38 @@
+body{
+     background: lightyellow;
+     margin-left: 20px;
+     font-size: larger;
+}
+h1{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-spacing: 20px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 200px;
+    background: rgb(158, 19, 19);
+    color: lightyellow;
+    
+}
+h2{
+    background: rgb(2, 163, 2);
+    color: lightyellow;
+}
+h3{
+    color: gray;
+}
+ul{
+    color: brown;
+}
+a{
+    color: rgb(175, 31, 175);
+}
+table{
+    background: gray;
+    border: 10px black;
+
+}
+img{
+    border: 1px dashed gray;
+    background: white
+}

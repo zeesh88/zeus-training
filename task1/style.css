@@ -1,0 +1,40 @@
+  
+  @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+  @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+.container {
+    display: flex;
+    align-items: center;
+    margin: 400px  auto;
+    width: 457px;
+    height: 138px;
+  }
+  .right {
+    padding-left: 14px;
+  }
+  .left img{
+    width: 130px;
+    height: 130px;
+  }
+  .name {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 14px;
+  }
+  .text {
+    margin-bottom: 24px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+  }
+    
+  .icons { 
+    font-size: 20px;
+    color: #858991;
+    font-family: 'Roboto', sans-serif;
+    }
+  
+.num-count{margin-left: 14px; margin-right: 24px; font-style: normal;}
